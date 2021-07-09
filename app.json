@@ -1,4 +1,6 @@
 {
-  "name": "RNMagentoGraphQL",
-  "displayName": "RNMagentoGraphQL"
+  "expo": {
+    "name": "RNMagentoGraphQL",
+    "slug": "RNMagentoGraphQL"
+  }
 }
